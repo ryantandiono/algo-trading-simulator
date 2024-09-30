@@ -1,0 +1,63 @@
+2024-09-30 11:24:01,316 - INFO - Running backtest for AAPL from 2020-01-01 to 2021-01-01 with initial cash $10000.0.
+2024-09-30 11:27:24,619 - INFO - Running backtest for AAPL from 2020-01-01 to 2024-01-01 with initial cash $10000.0.
+2024-09-30 11:30:59,496 - INFO - Running backtest for AAPL from 2020-01-01 to 2024-01-01 with initial cash $10000.0.
+2024-09-30 11:33:54,547 - INFO - Running backtest for AAPL from 2020-01-01 to 2024-01-01 with initial cash $10000.0.
+2024-09-30 11:33:55,216 - INFO - Backtest completed. Final Portfolio Value: $10005.93
+2024-09-30 11:34:09,240 - INFO - Running backtest for AAPL from 2020-01-01 to 2021-01-01 with initial cash $10000.0.
+2024-09-30 11:34:09,286 - INFO - Backtest completed. Final Portfolio Value: $10001.67
+2024-09-30 11:49:01,977 - INFO - Running backtest for AAPL from 2020-01-01 to 2021-01-01 with initial cash $10000.0.
+2024-09-30 11:49:02,021 - INFO - Backtest completed. Final Portfolio Value: $10005.39
+2024-09-30 11:49:05,644 - INFO - Running backtest for AAPL from 2020-01-01 to 2021-01-01 with initial cash $10000.0.
+2024-09-30 11:49:06,007 - INFO - Backtest completed. Final Portfolio Value: $10127.47
+2024-09-30 11:51:08,263 - ERROR - 
+1 Failed download:
+2024-09-30 11:51:08,264 - ERROR - ['BTC-USD']: ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host='query2.finance.yahoo.com', port=443): Read timed out. (read timeout=10)"))
+2024-09-30 11:51:29,769 - ERROR - Failed to get ticker 'BTC/USD' reason: HTTPSConnectionPool(host='query1.finance.yahoo.com', port=443): Read timed out. (read timeout=10)
+2024-09-30 11:51:29,781 - ERROR - 
+1 Failed download:
+2024-09-30 11:51:29,781 - ERROR - ['BTC/USD']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-09-30 11:51:36,301 - ERROR - Failed to get ticker 'BTC/USDT' reason: Expecting value: line 1 column 1 (char 0)
+2024-09-30 11:51:36,306 - ERROR - 
+1 Failed download:
+2024-09-30 11:51:36,306 - ERROR - ['BTC/USDT']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-09-30 11:51:39,153 - ERROR - 
+1 Failed download:
+2024-09-30 11:51:39,153 - ERROR - ['BTC-USDT']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-09-30 11:51:41,028 - INFO - Running backtest for BTC-USD from 2020-01-01 to 2021-01-01 with initial cash $10000.0.
+2024-09-30 11:51:41,090 - INFO - Backtest completed. Final Portfolio Value: $7400.43
+2024-09-30 11:51:45,486 - INFO - Running backtest for BTC-USD from 2020-01-01 to 2021-01-01 with initial cash $10000.0.
+2024-09-30 11:51:46,064 - INFO - Backtest completed. Final Portfolio Value: $37619.00
+2024-09-30 11:55:00,959 - INFO - Running backtest for AAPL from 2020-01-01 to 2024-01-01 with initial cash $10000.0.
+2024-09-30 11:55:01,485 - ERROR - Model and Scaler must be provided for Machine Learning Strategy.
+2024-09-30 11:55:32,839 - INFO - Running backtest for AAPL from 2020-01-01 to 2024-01-01 with initial cash $10000.0.
+2024-09-30 11:55:35,042 - INFO - Backtest completed. Final Portfolio Value: $10526.28
+2024-09-30 11:56:03,929 - INFO - Running backtest for AAPL from 2020-01-01 to 2024-01-01 with initial cash $10000.0.
+2024-09-30 11:56:04,620 - INFO - Backtest completed. Final Portfolio Value: $10005.93
+2024-09-30 12:14:53,428 - INFO - Running backtest for AAPL from 2020-01-01 to 2021-01-01 with initial cash $10000.0.
+2024-09-30 12:14:53,474 - INFO - Backtest completed. Final Portfolio Value: $10001.67
+2024-09-30 12:15:00,162 - INFO - Running backtest for AAPL from 2020-01-01 to 2021-01-01 with initial cash $10000.0.
+2024-09-30 12:15:00,207 - INFO - Backtest completed. Final Portfolio Value: $10005.39
+2024-09-30 12:15:04,288 - INFO - Running backtest for AAPL from 2020-01-01 to 2021-01-01 with initial cash $10000.0.
+2024-09-30 12:15:04,660 - INFO - Backtest completed. Final Portfolio Value: $10127.47
+2024-09-30 12:18:04,915 - INFO - Running backtest for AAPL from 2020-01-01 to 2021-01-01 with initial cash $10000.0.
+2024-09-30 12:18:04,963 - INFO - Backtest completed. Final Portfolio Value: $10001.67
+2024-09-30 12:18:09,326 - INFO - Running backtest for AAPL from 2020-01-01 to 2021-01-01 with initial cash $10000.0.
+2024-09-30 12:18:09,694 - INFO - Backtest completed. Final Portfolio Value: $10127.47
+2024-09-30 12:19:04,644 - INFO - Running backtest for NVDA from 2020-01-01 to 2021-01-01 with initial cash $10000.0.
+2024-09-30 12:19:05,014 - INFO - Backtest completed. Final Portfolio Value: $10019.72
+2024-09-30 12:22:52,507 - INFO - Running backtest for AAPL from 2020-01-01 to 2021-01-01 with initial cash $10000.0.
+2024-09-30 12:22:52,551 - INFO - Backtest completed. Final Portfolio Value: $10001.67
+2024-09-30 12:27:43,082 - INFO - Running backtest for AAPL from 2020-01-01 to 2021-01-01 with initial cash $10000.0.
+2024-09-30 12:27:43,127 - INFO - Backtest completed. Final Portfolio Value: $10001.67
+2024-09-30 12:27:45,939 - INFO - Running backtest for AAPL from 2020-01-01 to 2021-01-01 with initial cash $10000.0.
+2024-09-30 12:27:45,983 - INFO - Backtest completed. Final Portfolio Value: $10005.39
+2024-09-30 12:27:48,285 - INFO - Running backtest for AAPL from 2020-01-01 to 2021-01-01 with initial cash $10000.0.
+2024-09-30 12:27:48,650 - INFO - Backtest completed. Final Portfolio Value: $10127.47
+2024-09-30 12:27:54,840 - INFO - Running backtest for BTC-USD from 2020-01-01 to 2021-01-01 with initial cash $10000.0.
+2024-09-30 12:27:55,368 - INFO - Backtest completed. Final Portfolio Value: $37619.00
+2024-09-30 12:28:00,420 - INFO - Running backtest for BTC-USD from 2020-01-01 to 2024-01-01 with initial cash $10000.0.
+2024-09-30 12:28:02,546 - INFO - Backtest completed. Final Portfolio Value: $396993.22
+2024-09-30 12:31:01,509 - INFO - Running backtest for AAPL from 2020-01-01 to 2021-01-01 with initial cash $10000.0.
+2024-09-30 12:31:01,555 - INFO - Backtest completed. Final Portfolio Value: $10001.67
+2024-09-30 12:31:21,000 - INFO - Running backtest for AAPL from 2020-01-01 to 2021-01-01 with initial cash $10000.0.
+2024-09-30 12:31:21,047 - INFO - Backtest completed. Final Portfolio Value: $10001.67
